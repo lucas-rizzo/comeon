@@ -1,0 +1,42 @@
+[ 
+    {
+        "type": "body",
+        "description" :"Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+        "amount":120
+    },
+    {
+        "type": "body",
+        "description" :"Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas o pescoço durante o tempo restante.",
+        "amount": 140
+    },
+    {
+        "type": "body",
+        "description" :"De pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita o processo até o tempo acabar.",
+        "amount": 90
+    },
+    {
+        "type": "body",
+        "description" :"Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3x por 5 segundos.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description" :"Estique seus braços para cima com as duas mãos juntas, alongando e jogando para direita e depois para a esquerda, repita o processo por 10seg para cada lado.",
+        "amount": 60
+    },
+    {
+        "type": "eye",
+        "description" :"Feche os olhos e medite controlando a respiração por 2 minutos.",
+        "amount": 140
+    },
+    {
+        "type": "body",
+        "description" :"Levante, faça 5 polichinelos e agaixe uma vez, repita o processo 5 vezes durante um minuto.",
+        "amount": 75
+    },
+    {
+        "type": "eye",
+        "description" :"Usando os polegares, massageie a área abaixo das sobrancelhas em movimentos circulares por 15 repetições de 4s cada, repita o processo ",
+        "amount": 60
+    }
+]
